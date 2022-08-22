@@ -36,6 +36,9 @@ After the game is over, the final page where the score is displayed.
 # Algorithm:
 
 ●As seen in the screenshots,the game starts with a menu screen after pressing ‘enter’ the game starts.
+
 ●The player starts by pressing ‘spacebar’ to shoot the arrow. If the arrow hits the balloon, then the computer system makes a sound to indicate the hit, and the hit counter goes up.
+
 ●If the player misses, then the miss counter goes up. After 9 misses the ‘game over’ screen is displayed, and the player has the option to start the game again.
+
 ●Hence, we can say it is a very challenging but fun game to play with innovative features that prevent cheating as well as improve reflexes.
