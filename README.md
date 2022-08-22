@@ -1,11 +1,11 @@
 # Balloon-Shooting-Game-in-8086
 
-#Abstract:
+# Abstract:
 
 We aim to make a challenging but fun arcade game which will help ease the boredom of everyone during leisure
 We will build this game using the assembly language available in the software emu-8086 and use loops, and manipulate flag registers to simulate a balloon shooting arcade game.
 
-#ASSEMBLER AND CONCEPTS USED:
+# ASSEMBLER AND CONCEPTS USED:
 
 ●EMU-8086
 
@@ -15,7 +15,7 @@ We will build this game using the assembly language available in the software em
 
 ●Looping
 
-#Modules:
+# Modules:
 Key detection:
 This module detects whether any key is pressed. If a key is pressed, it moves to the respective loop within the code.
 
