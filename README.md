@@ -24,8 +24,11 @@ This module detects when the ‘up’ and ‘down’ keys are pressed and the ol
 
 Balloon:
 This module renders new balloons by first hiding the old balloon if any, and only then will the new balloon be rendered.
+
 Arrow:
 When the spacebar is pressed, the arrow position is set at the player’s position and fired. When the arrow is fired, a limit is set on it, after which it hides. This prevents multiple instances of the arrow existing at once, which will prevent cheating and the final score will be determined only on the players’ skill
+
 Score:
 The player shoots a balloon if connected the hit counter goes up and triggers the system to make a sound. If not, then the miss counter goes up. After 9 misses the game is over.
+
 After the game is over, the final page where the score is displayed.
